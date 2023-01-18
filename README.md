@@ -6,7 +6,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oscar_king62&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oscar_king62&count=1)
 
 
 ### :fire: My Stats :
