@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Three js & php
 - feeling awesome
-i am among us
+i am among us, watch out
 
 <!---
 140hz/140hz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
