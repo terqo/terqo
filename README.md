@@ -1,4 +1,5 @@
-${terqo}
+$terqo
+
 
 <!---
 140hz/140hz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
